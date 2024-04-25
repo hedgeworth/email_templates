@@ -1,6 +1,5 @@
-Templates
 
-# email_templates
+# Email Templates
 
 
 template_01_newuseraccount
